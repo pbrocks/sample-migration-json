@@ -15,7 +15,7 @@
  *
  * Sample Structured Export
  *
- * Built with WP PHX WordPress Development Toolkit v3.1.0 on Tuesday 25th of June 2019 03:13:47 PM
+ * Built with WP PHX WordPress Development Toolkit v3.1.0 on 25th of June 2019
  * @link           https://github.com/WordPress-Phoenix/wordpress-development-toolkit
  */
 
