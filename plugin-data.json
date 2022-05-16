@@ -1,0 +1,18 @@
+{
+    "data": {
+        "plugin_name": "Sample Structured Export",
+        "plugin_description": "This plugin is for Sample export to UDF/UCG; plugin forked from `tempo-sample-structured-export`, from Time Inc Legacy brands to export to UDF",
+        "plugin_url": "",
+        "plugin_authors": "Sample Migration Minds",
+        "plugin_arch_type": "simple",
+        "plugin_license": "gpl",
+        "plugin_primary_namespace": "Phoenix",
+        "plugin_secondary_namespace": "Sample_Structured_Export",
+        "plugin_ver": "0.2.0",
+        "plugin_teamorg": "Phoenix Engineering",
+        "plugin_repo_url": "http://github.com/wordpress-phoenix",
+        "generator_version": "3.1.0",
+        "mainFilename": "sample-structured-export"
+    },
+    "config": { "generated": 1561475626 }
+}

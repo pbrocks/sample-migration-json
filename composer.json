@@ -1,0 +1,26 @@
+{
+  "name": "sample-structured-export",
+  "description": "This plugin is for Time Inc Legacy brands to export to UDF",
+  "keywords": [
+	"wordpress",
+	"site-options",
+	"utility",
+	"helper"
+  ],
+  "homepage": "http://github.com/wordpress-phoenix",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+	{
+	  "name": "MUSE Engineering",
+	  "email": "code.devwalker@domain.test",
+	  "homepage": "http://github.com/wordpress-phoenix",
+	  "role": "Developer"
+	}
+  ],
+  "require": {
+	"WordPress-Phoenix/abstract-plugin-base": "^2.6"
+  },
+  "config": {
+	"vendor-dir": "lib"
+  }
+}
